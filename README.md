@@ -27,7 +27,7 @@
 - 📄 **Paper (arXiv)**: [arXiv:2602.03548](https://arxiv.org/abs/2602.03548)
 - 💻 **Code (GitHub)**: Complete training, inference, and evaluation pipelines
 - 🤗 **Model (Hugging Face)**: [dayll/SEAD-14B](https://huggingface.co/dayll/SEAD-14B)
-- 📊 **Benchmark**: Benchmark and evaluation data
+- 📊 **Benchmark**: Benchmark and evaluation code is available
 
 **What's included:**
 - ✅ End-to-end training, inference, and evaluation pipelines
@@ -76,7 +76,7 @@
 
 
 ## 🤖 Model
-EviNoteRAG is now available on huggingface-hub:
+SEAD is now available on huggingface-hub:
 | Model Name | HF Checkpoint                                                | Size                                                    |
 | ---------- | ------------------------------------------------------------ | :------: |
 | SEAD-14b     | [🤗 dayll/SEAD-14B](https://huggingface.co/dayll/SEAD-14B) | **14B** 
