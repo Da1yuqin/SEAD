@@ -1,4 +1,4 @@
-# SEAD-v1
+# SEADv1
 
 <h1 align="center">
  
