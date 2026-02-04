@@ -1,5 +1,3 @@
-# SEADv1
-
 <h1 align="center">
  
   SEAD: Self-Evolving Agent for Service Dialogue
