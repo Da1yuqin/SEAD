@@ -16,6 +16,9 @@
 
 **SEAD (Self-Evolving Agent for Service Dialogue)** - Co-evolutionary Training Loop Framework. The controller samples initial states (Phase 1), which initialize dialogues producing trajectories (Phase 2), used to train the agent with rewards (Phase 3) and compute completion rates (Phase 4), which feed back to adjust sampling distributions, closing the co-evolutionary loop.
 
+
+✨If you like this project, please give it a star🌟—it's the best encouragement for us🥺!✨
+
 ---
 
 ## 🔥 News
