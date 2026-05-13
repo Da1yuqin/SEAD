@@ -1,0 +1,142 @@
+{
+  "User_Persona_Classification": {
+    "0. Identity_Verification": [
+      "Claims not to be the store owner (if the other party says goodbye politely, set status to 1)",
+      "Remains vigilant and refuses to admit being the store manager before clarifying the caller's identity"
+    ],
+    
+    "1. Trust_and_Skepticism": [
+      "Asks if the caller is an AI robot",
+      "Questions if it is truly free",
+      "Questions the authenticity of ad performance results",
+      "Mentions having been scammed by similar activities before",
+      "Asks about the source of their personal information",
+      "Questions the authenticity of the campaign",
+      "Questions the reputation of the ad platform",
+      "Questions the authenticity of click data",
+      "Questions the conversion rate data",
+      "Questions the source of platform traffic",
+      "Expresses concern about information theft or phishing",
+      "Asks why they were selected",
+      "Suspects it might be a phishing scam",
+      "Requests a verifiable official website link"
+    ],
+    
+    "2. Cost_Concerns": [
+      "Asks if there are hidden costs",
+      "Asks if renewal is mandatory after the trial experience",
+      "Questions if the 700 yuan credit is sufficient",
+      "Asks what happens after the trial credit is used up",
+      "Asks if there will be automatic deductions",
+      "Asks if linking a bank card is required",
+      "Asks if a deposit is required",
+      "Worries about incurring future costs",
+      "Asks how the account is handled after the trial period ends",
+      "Suspects a 'free first, pay later' trap"
+    ],
+    
+    "3. Rule_Understanding": [
+      "Asks about the usage rules for the free trial credit",
+      "Asks about the validity period of the trial credit",
+      "Asks which channels the ads will be displayed on",
+      "Asks about the registration steps",
+      "Asks if a business license is required",
+      "Asks if there are geographic restrictions for ad placement",
+      "Asks if the ad campaign can be stopped at any time",
+      "Asks about the cost-per-click (CPC) standard",
+      "Asks how long the 700 yuan will last",
+      "Asks if the ad content can be changed",
+      "Asks how the account balance is displayed"
+    ],
+    
+    "4. Suitability_Doubts": [
+      "Expresses uncertainty about whether the product is suitable",
+      "Asks if peers in the industry are using it",
+      "Asks if competitors are also running ads",
+      "Worries about competitors seeing the ads",
+      "Asks if target customers can be precisely targeted",
+      "Asks how ad performance is guaranteed"
+    ],
+    
+    "5. Information_Confirmation": [
+      "Requests successful case studies for reference",
+      "Requests customer service contact information",
+      "Asks if there are user tutorials",
+      "Requests to add WeChat for detailed communication"
+    ],
+    
+    "6. Operational_Concerns": [
+      "States inability to operate the backend system",
+      "Worries the operation is too complex to learn",
+      "Worries about wasting budget due to self-operation",
+      "Asks what to do if issues arise",
+      "States a need for technical support",
+      "Tech Glitch"
+    ],
+    
+    "7. Communication_and_Comprehension": [
+      "Repeatedly says they cannot hear clearly",
+      "States they didn't understand the meaning",
+      "Requests repetition of the campaign details",
+      "Misunderstands the campaign rules",
+      "Answers irrelevantly or strays from the topic",
+      "Forgets what was just said",
+      "Confuses information from different campaigns",
+      "Repeatedly asks the same question",
+      "Chats with others while on the call (interspersing words meant for others)"
+    ],
+    
+    "8. Comparison_and_Verification": [
+      "Asks about differences from competing platforms",
+      "Asks about advantages over other platforms",
+      "States they are currently using another platform",
+      "Asks if multiple platforms can be used simultaneously",
+      "Mentions that other platforms have similar campaigns",
+      "Asks about the reputation within the industry"
+    ],
+    
+    "9. Testing_and_Exploration": [
+      "Asks about the company's other products or services",
+      "Asks if there are other promotional activities",
+      "Asks if multiple accounts can be registered",
+      "Asks if there are rewards for referring friends",
+      "Asks about agency partnership opportunities",
+      "Asks if there are special policies for key accounts",
+      "Probes for more discounts or benefits",
+      "Asks if they can see results first",
+      "Asks if the trial period can be extended"
+    ],
+    
+    "10. Historical_Experience": [
+      "States they used it before with poor results",
+      "States they were cheated by other platforms before",
+      "Asks how this differs from previous campaigns",
+      "States lack of knowledge about ad placement",
+      "States this is their first contact with online promotion",
+      "Asks for real feedback from other clients"
+    ],
+    
+    "11. Boundary_Testing": [
+      "Asks if it can be transferred to others",
+      "Asks if it can be cashed out or exchanged",
+      "Asks if it can be used for other businesses",
+      "Asks about consequences of violation",
+      "Asks how to handle account suspension",
+      "Asks if click farming or cheating is possible",
+      "Asks if gray-area industries can run ads"
+    ],
+    
+    "12. Progress_Expediting": [
+      "Asks how long it takes to open an account"
+    ],
+    
+    "13. Detail_Fixation": [
+      "Repeatedly confirms a specific detail",
+      "Expresses lack of understanding of a specific clause",
+      "Requests line-by-line explanation of the agreement",
+      "Fixates on a specific number or ratio",
+      "Pays excessive attention to a minor issue",
+      "Demands guarantees on specific performance data"
+    ]
+  }
+}
