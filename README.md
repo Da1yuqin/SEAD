@@ -21,6 +21,18 @@
 
 ---
 
+## 🔗 Related Work
+
+Together with SEAD, these works form a unified research line on **evaluating, optimizing, and unlocking proactive behaviors in real-world service agents**.
+
+| Work | Venue | What it does |
+|---|---|---|
+| **SAGE: A Service Agent Graph-guided Evaluation Benchmark**<br>[![arXiv](https://img.shields.io/badge/arXiv-2604.09285-b31b1b.svg)](https://arxiv.org/abs/2604.09285) | **EMNLP 2026 Findings** | Turns service SOPs into dynamic dialogue graphs for scalable evaluation of agents' logical compliance and interaction quality. |
+| **Unlocking Proactivity in Task-Oriented Dialogue**<br>[![arXiv](https://img.shields.io/badge/arXiv-2605.22240-b31b1b.svg)](https://arxiv.org/abs/2605.22240) | **arXiv 2026** | Uses a cognitive user simulator and asymmetric-view policy optimization to train agents that proactively uncover and address users' latent concerns. |
+| **Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-Oriented Dialogue**<br>[![arXiv](https://img.shields.io/badge/arXiv-2602.22697-b31b1b.svg)](https://arxiv.org/abs/2602.22697) | **ICML 2026** | Introduces cost-aware multi-turn reinforcement learning to balance service utility, empathetic interaction, and operational budgets. |
+
+---
+
 ## 🔥 News
 **[2026-05-13]** — New 2-instance User Simulator training mode is now available! This mode runs 2 independent user simulator instances (1 GPU each) instead of 1 instance (2 GPUs), significantly reducing the risk of user simulator crashes and improving training stability. 🚀
 
