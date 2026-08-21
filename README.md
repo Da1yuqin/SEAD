@@ -25,11 +25,11 @@
 
 SEAD is part of our broader effort to build service agents that can **understand users, act strategically, and succeed under real-world constraints**—from rigorous evaluation to cost-aware reinforcement learning and proactive interaction.
 
-| Work | Venue | What it does |
-|---|---|---|
-| **SAGE: A Service Agent Graph-guided Evaluation Benchmark**<br>[![arXiv](https://img.shields.io/badge/arXiv-2604.09285-b31b1b.svg)](https://arxiv.org/abs/2604.09285) | **EMNLP 2026 Findings** | Puts service agents to the test with dynamic dialogue graphs that measure both logical compliance and interaction quality. |
-| **Unlocking Proactivity in Task-Oriented Dialogue**<br>[![arXiv](https://img.shields.io/badge/arXiv-2605.22240-b31b1b.svg)](https://arxiv.org/abs/2605.22240) | **arXiv 2026** | Teaches agents to take the initiative—uncovering users' hidden concerns and proactively steering conversations toward success. |
-| **Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-Oriented Dialogue**<br>[![arXiv](https://img.shields.io/badge/arXiv-2602.22697-b31b1b.svg)](https://arxiv.org/abs/2602.22697) | **ICML 2026** | Trains service agents to deliver helpful, empathetic interactions while staying within real-world operational budgets. |
+| Work | Research Tag | Venue | What it does |
+|---|---|---|---|
+| **SAGE: A Service Agent Graph-guided Evaluation Benchmark**<br>[![arXiv](https://img.shields.io/badge/arXiv-2604.09285-b31b1b.svg)](https://arxiv.org/abs/2604.09285) | ![Benchmark](https://img.shields.io/badge/Benchmark-4C78A8) | **EMNLP 2026 Findings** | Puts service agents to the test with dynamic dialogue graphs that measure both logical compliance and interaction quality. |
+| **Unlocking Proactivity in Task-Oriented Dialogue**<br>[![arXiv](https://img.shields.io/badge/arXiv-2605.22240-b31b1b.svg)](https://arxiv.org/abs/2605.22240) | ![OPD](https://img.shields.io/badge/OPD-8E44AD) | **arXiv 2026** | Teaches agents to take the initiative—uncovering users' hidden concerns and proactively steering conversations toward success. |
+| **Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-Oriented Dialogue**<br>[![arXiv](https://img.shields.io/badge/arXiv-2602.22697-b31b1b.svg)](https://arxiv.org/abs/2602.22697) | ![Cost-Aware RL](https://img.shields.io/badge/Cost--Aware_RL-F58518) | **ICML 2026** | Trains service agents to deliver helpful, empathetic interactions while staying within real-world operational budgets. |
 
 ---
 
